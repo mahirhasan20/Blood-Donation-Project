@@ -1,0 +1,29 @@
+Patient 1 :
+
+Name : Maruf chowdhury
+Blood Group : AB+
+Blood need : 4 units
+Date of requirement : 19th April 2017
+
+Family contact
+Father  : 01717303060
+Brother : 01685337174
+
+
+Patient 2 :
+
+Name : Zabin Khatun
+Blood Group : AB+
+Blood need : 2 units
+Date of requirement : 18th April 2017
+
+Family contact
+Father  : 01770335396
+Brother : 01680098798
+
+
+
+Hospital Contact
+
+Phone  : +8802-9034755
+Adress : Mirpur Rd, Dhaka, Bangladesh

@@ -1,0 +1,29 @@
+Patient 1 :
+
+Name : Samiul Sami
+Blood Group : O+
+Blood need : 2 units
+Date of requirement : 25th April 2017
+
+Family contact
+Father  : 01717303060
+Brother : 01685337174
+
+
+Patient 2 :
+
+Name : Mizanur Rahman
+Blood Group : O+
+Blood need : 3 units
+Date of requirement : 23rd April 2017
+
+Family contact
+Father  : 01770335396
+Brother : 01680098798
+
+
+
+Hospital Contact
+
+Phone  : +8802-8913939
+Adress : Plot no 4. Secto 1, Rd No 9, Dhaka 1230, Bangladesh

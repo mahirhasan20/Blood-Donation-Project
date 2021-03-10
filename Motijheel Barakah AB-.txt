@@ -1,0 +1,29 @@
+Patient 1 :
+
+Name : Tabassum Zaman
+Blood Group : AB-
+Blood need : 3 units
+Date of requirement : 17th April 2017
+
+Family contact
+Father  : 01717303060
+Brother : 01680098798
+
+
+Patient 2 :
+
+Name : Pranto Khan
+Blood Group : AB-
+Blood need : 1 units
+Date of requirement : 17th April 2017
+
+Family contact
+Father  : 01770335596
+Brother : 01685337174
+
+
+
+Hospital Contact
+
+Phone  : +8802-9346265
+Adress : 937 Outer Circular Rd, Dhaka 1000, Bangladesh

@@ -1,0 +1,29 @@
+Patient 1 :
+
+Name : Tabassum Zaman
+Blood Group : O+
+Blood need : 3 units
+Date of requirement : 17th April 2017
+
+Family contact
+Father  : 01717303060
+Brother : 01680098798
+
+
+Patient 2 :
+
+Name : Pranto Khan
+Blood Group : O+
+Blood need : 1 units
+Date of requirement : 17th April 2017
+
+Family contact
+Father  : 01770335596
+Brother : 01685337174
+
+
+
+Hospital Contact
+
+Phone  : +8801992-346631
+Adress : Purobi Bus Stop, Begum Rokeya Avenue, 1216, Dhaka 1216, Bangladesh

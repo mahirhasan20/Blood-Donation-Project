@@ -1,0 +1,29 @@
+Patient 1 :
+
+Name : Shakel chowdhury
+Blood Group : A+
+Blood need : 2 units
+Date of requirement : 17th April 2017
+
+Family contact
+Father  : 01717303060
+Brother : 01685337174
+
+
+Patient 2 :
+
+Name : Prapti Rahman
+Blood Group : A+
+Blood need : 3 units
+Date of requirement : 18th April 2017
+
+Family contact
+Father  : 01682878310
+Brother : 01680098798
+
+
+
+Hospital Contact
+
+Phone  : United Hospital
+Adress : Plot 15, Rd No 71,Gulshan, Dhaka 1212, Bangladesh

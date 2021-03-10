@@ -1,0 +1,32 @@
+Patient 1 :
+
+Name : Shakel chowdhury
+Blood Group : A+
+Blood need : 2 units
+Date of requirement : 17th April 2017
+
+Family contact
+Father : 01717303060
+Brother : 01717303060
+
+
+Patient 2 :
+
+Name : Shuvo Karmakar
+Blood Group : A+
+Blood need : 2 units
+Date of requirement : 17th April 2017
+
+Family contact
+Father : 01717303060
+Brother : 01717303060
+
+
+
+Hospital Contact
+
+Phone : +880 1711-182522
+Adress : House 01, Road 07 Jashim Uddin Over Bridge, Dhaka 1230, Bangladesh
+
+
+ 

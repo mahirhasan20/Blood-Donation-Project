@@ -1,0 +1,32 @@
+Patient 1 :
+
+Name : Maruf chowdhury
+Blood Group : AB+
+Blood need : 4 units
+Date of requirement : 19th April 2017
+
+Family contact
+Father  : 01717303060
+Brother : 01685337174
+
+
+Patient 2 :
+
+Name : Zabin Khatun
+Blood Group : AB+
+Blood need : 2 units
+Date of requirement : 18th April 2017
+
+Family contact
+Father  : 01770335396
+Brother : 01680098798
+
+
+Hospital Contact
+
+Phone : +880 1711-182522
+Adress : House 01, Road 07 Jashim Uddin Over Bridge, Dhaka 1230, Bangladesh
+
+
+ 
+
